@@ -4,6 +4,9 @@
 
 This is a modern and responsive furniture website built using HTML, CSS, and JavaScript. The website showcases a variety of furniture products with a clean and user-friendly interface. It aims to provide an intuitive browsing experience across all devices.
 
+## Live link
+- Demo: https://shivastoic.github.io/wood-works/
+
 ## Features
 
 - **Responsive Design**: The website is fully responsive, ensuring a seamless experience on desktops, tablets, and mobile devices.
@@ -17,6 +20,3 @@ This is a modern and responsive furniture website built using HTML, CSS, and Jav
 - **HTML5**: Structuring the content of the website.
 - **CSS3**: Styling the website with Flexbox and Grid for layout, and media queries for responsiveness.
 - **JavaScript**: Adding interactivity and dynamic content, including a custom slider for product images.
-
-## Live link
-- Demo: 
